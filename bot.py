@@ -224,4 +224,4 @@ if __name__ == "__main__":
 
 #____________________________________________#
 bot.loop.create_task(change_status())
-bot.run('NDg1Nzg0MjM4Mjc3MjYzMzYy.Dm1lbA.4j4rWqdxBeVee63rkt3y0hWxA3w')
+bot.run('ODg4NzUwNDExNzUyODI0ODQ0.YUXPUg.bLsrudgnWo5akqF_6YYuUB609us')
